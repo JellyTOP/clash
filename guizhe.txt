@@ -13,11 +13,21 @@
 
 - DOMAIN-KEYWORD,logitech,Proxy
 
+##-匹配域名后缀(拒绝)
 - DOMAIN-SUFFIX,us2.ethermine.org,REJECT
 - DOMAIN-SUFFIX,asia1.ethermine.org,REJECT
 - DOMAIN-SUFFIX,eu1.ethermine.org,REJECT
 - DOMAIN-SUFFIX,us1.ethermine.org,REJECT
 - DOMAIN-SUFFIX,asia2.ethermine.org,REJECT
+- DOMAIN-SUFFIX,eth.f2pool.com,REJECT
+- DOMAIN-SUFFIX,eth-backup.f2pool.com,REJECT
+- DOMAIN-SUFFIX,eth.ss.poolin.me,REJECT
+
+
+##-匹配域名关键字(拒绝)
+- DOMAIN-KEYWORD,f2pool,REJECT
+- DOMAIN-KEYWORD,poolin,REJECT
+
 
 - DOMAIN-SUFFIX,ethermine.org,ethermine
 - DOMAIN-SUFFIX,api.ethermine.org,ethermine
