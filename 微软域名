@@ -16,3 +16,4 @@
 - DOMAIN-SUFFIX,onenote.net,DIRECT
 - DOMAIN-SUFFIX,1drv.com,DIRECT
 - DOMAIN-SUFFIX,login.microsoftonline.com,Proxy
+- DOMAIN-SUFFIX,management.azure.com,Proxy
