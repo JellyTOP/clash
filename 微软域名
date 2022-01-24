@@ -1,0 +1,17 @@
+- DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,live.net,DIRECT
+- DOMAIN-SUFFIX,office.com,DIRECT
+- DOMAIN-SUFFIX,office.net,DIRECT
+- DOMAIN-SUFFIX,sharepoint.com,DIRECT
+- DOMAIN-SUFFIX,office365.com,DIRECT
+- DOMAIN-SUFFIX,officeppe.net,DIRECT
+- DOMAIN-SUFFIX,skype.com,DIRECT
+- DOMAIN-SUFFIX,onedrive.com,DIRECT
+- DOMAIN-SUFFIX,msocsp.com,DIRECT
+- DOMAIN-SUFFIX,msauthimages.net,DIRECT
+- DOMAIN-SUFFIX,msauth.net,DIRECT
+- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+- DOMAIN-SUFFIX,msn.com,DIRECT
+- DOMAIN-SUFFIX,onenote.com,DIRECT
+- DOMAIN-SUFFIX,onenote.net,DIRECT
+- DOMAIN-SUFFIX,1drv.com,DIRECT
