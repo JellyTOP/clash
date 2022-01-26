@@ -25,6 +25,7 @@
 - DOMAIN-SUFFIX,eth.2miners.com,REJECT
 - DOMAIN-SUFFIX,eth.2miners.com,REJECT
 - DOMAIN-SUFFIX,asia-eth.2miners.com,REJECT
+- DOMAIN-SUFFIX,ru-eth.hiveon.net,REJECT
 
 
 ##-匹配域名关键字(拒绝)
