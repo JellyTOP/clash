@@ -32,7 +32,7 @@
 ##-匹配域名关键字(拒绝)
 - DOMAIN-KEYWORD,f2pool,REJECT
 - DOMAIN-KEYWORD,poolin,REJECT
-
+- DOMAIN-KEYWORD,hiveon,REJECT
 
 - DOMAIN-SUFFIX,ethermine.org,ethermine
 - DOMAIN-SUFFIX,api.ethermine.org,ethermine
