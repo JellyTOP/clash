@@ -23,6 +23,7 @@
 - DOMAIN-SUFFIX,eth-backup.f2pool.com,REJECT
 - DOMAIN-SUFFIX,eth.ss.poolin.me,REJECT
 - DOMAIN-SUFFIX,eth.2miners.com,REJECT
+- DOMAIN-SUFFIX,eth.2miners.com,REJECT
 
 
 ##-匹配域名关键字(拒绝)
